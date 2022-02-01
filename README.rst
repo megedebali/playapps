@@ -39,5 +39,3 @@ License
 -------
 
 The project is licensed under the BSD license. Mengulas beragam jenis Whatsmod yang dapat diunduh secara gratis dan powerful dengan beragam fitur menarik dari versi originalnya.
-
-- https://www.autobild.co.id/ - Direktori Aplikasi dan Tutorial Teknologi Indonesia
