@@ -14,10 +14,13 @@ Ini Solusi Layanan Google Play Terhenti
 ==================
 
 1. Restart HP
+---------------
 
 Solusi layanan Google Play terhenti pertama dan bisa dikatakan sebenarnya sangat sederhana apabila misalnya kamu mendapatkan notifikasi layanan Google play berhenti, yaitu dengan melakukan restart pada HP. Kenapa harus dilakukan di Restart atau dimatikan? Sebab jika HP di Restart, biasanya sistem dan memori pada aplikasi itu akan di refresh, dimana tentu hal ini membuat sistem yang awalnya error akan kembali normal.
  
 2. Clear Cache Google Play Services
+---------------
+
 Cara kedua ini yaitu dengan membersihkan file sampah yang menumpuk pada sistem Google Play servis. Berikut langkah membersihkan file cache pada Google Play Service yang bisa di coba.
 
 - Pertama silahkan buka menu Pengaturan pada HP
@@ -29,6 +32,8 @@ Cara kedua ini yaitu dengan membersihkan file sampah yang menumpuk pada sistem G
 - Terakhir, silahkan lakukan Restart HP
 
 3. Clear Data Google Play Services
+---------------
+
 Jika misalnya solusi layanan Google Play terhenti dengan cara clear cache atau hapus file cache nyatanya juga belum juga berhasil, maka coba Hapus data aplikasi Google Play Services. Caranya sama seperti tahapan clear cache, hanya saja yang dibagian akhir itu kamu bisa pilih Hapus semua Data atau Clear Data.
 
 - Pertama silahkan buka Pengaturan pada HP
@@ -40,6 +45,7 @@ Jika misalnya solusi layanan Google Play terhenti dengan cara clear cache atau h
 - Terakhir, silahkan lakukan restart
  
 4. Reset Akun Google di HP
+---------------
 
 Reset akun google yang di maksud adalah, menghapus akun Gmail (akun email) yang tertaut di HP android. Lalu kemudian menghubungkannya kembali.
 Hanya syarat utama reset akun Google yaitu kamu harus tau Password emailnya atau password untuk login. Jangan sampai ketika menghapus akun google di HP namun kamu lupa saat mau login lagi dengan email yang sama. Caranya yaitu:
@@ -54,6 +60,7 @@ Hanya syarat utama reset akun Google yaitu kamu harus tau Password emailnya atau
 - Setelahnya, masukan email dan password akun Gmail yang tadi dihapus. Atau bisa juga buat email baru. Yang pasti setiap HP Android itu memerlukan minimal satu akun Google.
  
 5. Reset atau Factory Reset HP
+---------------
 
 Solusi layanan Google Play terhenti yaitu melakukan reset. Reset disini adalah memulihkan semua pengaturan HP seperti pertama kali ketika beli atau biasa disebut dengan pengaturan awal pabrik. Caranya:
 
