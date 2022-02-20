@@ -68,8 +68,3 @@ Solusi layanan Google Play terhenti yaitu melakukan reset. Reset disini adalah m
 - Lalu masuk ke menu Cadangkan dan reset
 - Pilihlah Reset data pabrik
 - Lalu pilih Reset Perangkat, dan tunggulah sampai proses reset selesai.
-
-Sumber referensi:
-- https://karinov.co.id/
-- https://www.technolati.com/
-- https://www.autobild.co.id/
