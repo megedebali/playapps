@@ -15,6 +15,7 @@ Features
 
 - Be awesome
 - Make things faster
+- Please refer to Google Apps official website if you have any trouble or visit https://www.dmo.or.id/
 
 Installation
 ------------
@@ -38,4 +39,4 @@ We have a mailing list located at: project@google-groups.com
 License
 -------
 
-The project is licensed under the BSD license. Mengulas beragam jenis Whatsmod yang dapat diunduh secara gratis dan powerful dengan beragam fitur menarik dari versi originalnya.
+The project is licensed under the BSD license.
