@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Buat Nada Dering dengan Situs Text to Speech di Hp Android
+Tutorial Mengatasi Aplikasi dan Layanan Google Play Store Terhenti di Android
 ==================
 
 Biasanya notifikasi yang mengatakan, sayangnya layanan Google Play telah berhenti merupakan sebuah pemberitahuan yang muncul akibat adanya kesalahan sistem pada aplikasi android. Error seperti ini pun biasanya terjadi di semua perangkat HP yang berbasis Android.
