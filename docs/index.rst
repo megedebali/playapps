@@ -6,31 +6,58 @@
 Buat Nada Dering dengan Situs Text to Speech di Hp Android
 ==================
 
-Lewat tulisan ini, kami akan memberikan panduan lengkap bagaimana cara membuat nada dering yang unik dan kerenenggunakan software text to speech alias situs untuk ubah teks menjadi suara Google. Teknik untuk memasang nada dering wa dari suara Google ini biasa disebut juga sebagai sound of text wa yang banyak diulas di halaman ini: https://www.dmo.or.id/sound-of-text-wa/. 
+Biasanya notifikasi yang mengatakan, sayangnya layanan Google Play telah berhenti merupakan sebuah pemberitahuan yang muncul akibat adanya kesalahan sistem pada aplikasi android. Error seperti ini pun biasanya terjadi di semua perangkat HP yang berbasis Android.
+ 
+Jika HP kamu saat ini juga sedang mengalami notifikasi seperti ini, makan jangan langsung dibawa ke tempat servis. Namun kamu bisa mencoba solusi layanan Google Play terhenti, melalui penjabaran berikut ini. 
 
-Ada cukup banyak situs yang dapat membuat suara dari teks dengan engine text to speech dari Google Translate. Diantara nama nama platform yang cukup terkenal dianataranya:
+Ini Solusi Layanan Google Play Terhenti
+==================
 
-1. Voiceoftext.com 
-2. Soundoftext.com 
-3. Notevibes.com
-4. Botika.online
-5. FreeTTS.com
-6. Voicemaker.in
-7. Fakeyou.com
-8. Uberduck.ai 
-9. Wideo text to speech
-10. Amazon Poly
-11. Balabolka
+1. Restart HP
 
-Tentu masih banyak platform text to speech lainnya yang cukup populer namun tidak bisa kami sebutkan satu persatu pada daftar diatas.
+Solusi layanan Google Play terhenti pertama dan bisa dikatakan sebenarnya sangat sederhana apabila misalnya kamu mendapatkan notifikasi layanan Google play berhenti, yaitu dengan melakukan restart pada HP. Kenapa harus dilakukan di Restart atau dimatikan? Sebab jika HP di Restart, biasanya sistem dan memori pada aplikasi itu akan di refresh, dimana tentu hal ini membuat sistem yang awalnya error akan kembali normal.
+ 
+2. Clear Cache Google Play Services
+Cara kedua ini yaitu dengan membersihkan file sampah yang menumpuk pada sistem Google Play servis. Berikut langkah membersihkan file cache pada Google Play Service yang bisa di coba.
 
-Cara membuat nada dering wa sendiri sebenarnya tidak sesulit yang dibayangkan. Kamu cukup membuat kata kata yang pas untuk dijadikan nada notifikasi, mengubahnya menjadi suara dalam format mp3 menggunakan situs text to speech,  lalu unduh dan simpan file mp3 sound of text tersebut di folder ringtones.
+- Pertama silahkan buka menu Pengaturan pada HP
+- Kemudian masuk ke menu Aplikasi atau Manajer Aplikasi
+- Lalu cari Google Play Services atau Layanan Google Play
+- Selanjutnya pilih Paksa Berhenti dulu
+- Kemudian pilih Penyimpanan
+- Lalu pilih Hapus Memori atau Hapus Cache
+- Terakhir, silahkan lakukan Restart HP
 
-Langkah selanjutnya tinggal memasang nada dering mp3 sound of text tadi sebagai nada pesan notifikasi wa di pengaturan aplikasi Whatsapp. Satu hal baru yang bisa kamu buat dengan teknologi text to speech ini adalah kamu dapat membuat ucapan custom untuk setiap keperluan ataupun event yang berbeda. Sebagai contoh, kamu dapat membuat ucapan suara untuk hari-hari besar seperti:
+3. Clear Data Google Play Services
+Jika misalnya solusi layanan Google Play terhenti dengan cara clear cache atau hapus file cache nyatanya juga belum juga berhasil, maka coba Hapus data aplikasi Google Play Services. Caranya sama seperti tahapan clear cache, hanya saja yang dibagian akhir itu kamu bisa pilih Hapus semua Data atau Clear Data.
 
-- Ucapan selamat Idul Fitri dengan suara Google
-- Ucapan selamat ulang tahun bahasa Korea dengan Voiceoftext
-- Ucapan selamat tahun baru Islam dengan bahasa Arab di situs Soundoftext.com
-- Ucapan selamat hari kemerdekaan Republik Indonesia
+- Pertama silahkan buka Pengaturan pada HP
+- Lalu kemudian masuk ke menu Aplikasi
+- Carilah Google Play Services atau Layanan Google Play
+- Berikutnya pilih Paksa Berhenti
+- Lalu pilih Penyimpanan
+- Kemudian Hapus Data atau Clear Data
+- Terakhir, silahkan lakukan restart
+ 
+4. Reset Akun Google di HP
 
-Untuk contoh kata-kata ucapan yang keren dan kekinian, kamu dapat melihat contohnya dari situs `Giftcard.co.id <https://giftcard.co.id>`_. Nah itulah tadi ulasan lengkap kami bagaimana cara memulai untuk membuat nada dering sendiri menggunakan situs text to speech yang sedang tren belakangan ini. Selamat mencoba dan semoga bermanfaat buat kamu sobat tekno semua!
+Reset akun google yang di maksud adalah, menghapus akun Gmail (akun email) yang tertaut di HP android. Lalu kemudian menghubungkannya kembali.
+Hanya syarat utama reset akun Google yaitu kamu harus tau Password emailnya atau password untuk login. Jangan sampai ketika menghapus akun google di HP namun kamu lupa saat mau login lagi dengan email yang sama. Caranya yaitu:
+ 
+- Pertama buka Pengaturan pada HP
+- Lalu masuk ke menu Akun
+- Pilihlah Google
+- Kemudian pilih Email yang tertera
+- Perhatikan di kanan atas, dan pilih lainnya
+- Selanjutnya pilih Hapus Akun, kemudian mulai restart HP.
+- Untuk menghubungkan akun google, maka cukup buka Pengaturan, pilih Akun, lalu kemudian tambah Akun. 
+- Setelahnya, masukan email dan password akun Gmail yang tadi dihapus. Atau bisa juga buat email baru. Yang pasti setiap HP Android itu memerlukan minimal satu akun Google.
+ 
+5. Reset atau Factory Reset HP
+
+Solusi layanan Google Play terhenti yaitu melakukan reset. Reset disini adalah memulihkan semua pengaturan HP seperti pertama kali ketika beli atau biasa disebut dengan pengaturan awal pabrik. Caranya:
+
+- Pertama silahkan buka Pengaturan pada HP
+- Lalu masuk ke menu Cadangkan dan reset
+- Pilihlah Reset data pabrik
+- Lalu pilih Reset Perangkat, dan tunggulah sampai proses reset selesai.
