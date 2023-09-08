@@ -16,7 +16,7 @@ Ini Solusi Layanan Google Play Terhenti
 1. Restart HP
 ---------------
 
-Solusi layanan Google Play terhenti pertama dan bisa dikatakan sebenarnya sangat sederhana apabila misalnya kamu mendapatkan notifikasi layanan Google play berhenti, yaitu dengan melakukan restart pada HP. Kenapa harus dilakukan di Restart atau dimatikan? Sebab jika HP di Restart, biasanya sistem dan memori pada aplikasi itu akan di refresh, dimana tentu hal ini membuat sistem yang awalnya error akan kembali normal. Baca tutorial dan download aplikasi Google Play terbaru di situs https://www.dmo.or.id/.
+Solusi layanan Google Play terhenti pertama dan bisa dikatakan sebenarnya sangat sederhana apabila misalnya kamu mendapatkan notifikasi layanan Google play berhenti, yaitu dengan melakukan restart pada HP. Kenapa harus dilakukan di Restart atau dimatikan? Sebab jika HP di Restart, biasanya sistem dan memori pada aplikasi itu akan di refresh, dimana tentu hal ini membuat sistem yang awalnya error akan kembali normal. Baca tutorial dan download aplikasi Google Play terbaru di situs https://karinov.co.id.
  
 2. Clear Cache Google Play Services
 ---------------
@@ -69,4 +69,8 @@ Solusi layanan Google Play terhenti yaitu melakukan reset. Reset disini adalah m
 - Pilihlah Reset data pabrik
 - Lalu pilih Reset Perangkat, dan tunggulah sampai proses reset selesai.
 
-Lihat juga: https://androidapps.readthedocs.io/en/latest/
+Lihat juga: 
+
+- https://androidapps.readthedocs.io/en/latest/
+- https://soundoftext.readthedocs.io/
+- https://soundtext.github.io/
